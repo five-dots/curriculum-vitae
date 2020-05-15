@@ -14,7 +14,8 @@
     -   主に米国金融マーケットへの投資事業を展開。
     -   投資戦略の研究過程で、プログラミング言語とデータサイエンスの領域と出会い、その面白さに魅了される。
     -   現在は、日本の実業界に蓄積されたデータ分析を通して、自身の価値を世の中に提供できないかを模索中。
--   [Github](https://github.com/five-dots) | [Blog](https://objective-boyd-9b8f29.netlify.app/) | [Qiita](https://qiita.com/five-dots) | [Kaggle](https://www.kaggle.com/shasai)
+
+-   [Blog](https://objective-boyd-9b8f29.netlify.app/) | [Qiita](https://qiita.com/five-dots) | [Kaggle](https://www.kaggle.com/shasai)
 
 ## 概要
 
