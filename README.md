@@ -38,24 +38,30 @@
     -   使用経験 約 2 年 (2018 年から)
     -   主に金融時系列データなどの高頻度データの分析経験
         -   数億件に上る株式ティックデータの分析経験
+    
     -   R パッケージを多数開発
-        -   [Github](https://github.com/five-dots) で一部を公開
+        -   [ `{Dict}` ](https://github.com/five-dots/Dict): R6 による Dictionary データ構造を実装した [CRAN](https://cran.r-project.org/web/packages/Dict/index.html) パッケージ
+        -   [ `{ml4e}` ](https://github.com/five-dots/ml4e): Machine Learning for Eveyone (機械学習プロジェクトを簡素化するメタパッケージ)
+        -   その他 [Github](https://github.com/five-dots) で公開
         -   インタラクティブなデータ分析だけでなく、分析のコード化に強み
         -   `{testhat}` を利用したユニットテストや Defensive Programming の技術
+    
     -   `{tidyverse}` などのモダンなパッケージを使ったデータのインポート・前処理・可視化などの一連の処理に精通
         -   経験した技術ノウハウ・パッケージの利用方法についての技術記事を自身の [notes リポジトリ](https://github.com/five-dots/notes) で公開
+    
     -   主要な機械学習モデル・ライブラリを経験
         -   回帰モデル・時系列モデル・ GBDT など Tree モデル・ニューラルネットワークなど
         -   機械学習プロジェクトの一連のワークフローを簡易化する [ `{ml4e}` ](https://github.com/five-dots/ml4e) パッケージを開発中
             -   2020 年 5 月現在で 12 パッケージを収録
             -   `{glment}`, `{kernlab}`, `{kknn}`, `{rpart}`, `{ranger}`, `{extraTrees}`, `{RGF}`, `{xgboost}`, `{lightgbm}`, `{catboost}`, `{keras}`
+    
     -   Rmarkdown, Jupyter notebook, Emacs org-mode を利用した Reproducible なレポート作成経験
     -   静的コード解析ツール `{lintr}` を利用したコードの品質向上
     -   開発環境
         -   Emacs + [ESS](https://ess.r-project.org/index.php?Section=home) をメインで利用
         -   RStudio の利用経験もあり
     -   その他
-        -   R からの REST API を利用したデータ収集の経験
+    -   R からの REST API を利用したデータ収集の経験
         -   Web クローラーによるデータ収集の経験
 
 
