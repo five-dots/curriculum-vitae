@@ -24,7 +24,7 @@
 
 -   アドホックなデータ分析などの「アナリスト」的な業務だけでなく、分析タスクをコード化していく「エンジニア」寄りのタスクに強みがあります。
 
--   分析用には、R 言語をメインで利用しており、CRAN パッケージを含むいくつかのパッケージを開発しています。実際のコードからコーディング能力を確かめたい場合は [GitHub リポジトリ](https://github.com/five-dots?tab=repositories) をご覧ください。
+-   分析用には、R 言語をメインで利用しており、CRAN パッケージを含む複数のパッケージを開発しています。実際のコードからコーディング能力を確かめたい場合は、 [GitHub リポジトリ](https://github.com/five-dots?tab=repositories) をご覧ください。
 
 -   コーディングやデータ分析業務だけでなく、営業職としての経験を活かした、社内外へ向けたプレゼンテーションや顧客との折衝まで対応可能です。
 
@@ -44,7 +44,7 @@
     
     -   R パッケージを多数開発
         -   [ `{Dict}` ](https://github.com/five-dots/Dict): R6 による Dictionary データ構造を実装した [CRAN](https://cran.r-project.org/web/packages/Dict/index.html) パッケージ
-        -   [ `{ml4e}` ](https://github.com/five-dots/ml4e): Machine Learning for Eveyone (機械学習プロジェクトを簡素化するメタパッケージ)
+        -   [ `{ml4e}` ](https://github.com/five-dots/ml4e): Machine Learning for Everyone (機械学習プロジェクトを簡素化するメタパッケージ)
         -   その他 [リポジトリ](https://github.com/five-dots) を参照
         -   `{testhat}` を利用したユニットテストや Defensive Programming の技術
     
@@ -63,14 +63,14 @@
         -   RStudio の利用経験もあり
         -   静的コード解析ツール `{lintr}` を利用したコードの品質向上
     -   その他
-    -   R からの REST API を利用したデータ収集の経験
+        -   R からの REST API を利用したデータ収集の経験
         -   Web クローラーによるデータ収集の経験
 
 
 
 -   Python
     -   使用経験 約 1 年
-    -   R で程の理解度ではないが、Jupyter Notebook などを利用して基本的な分析が可能なレベル
+    -   R 言語程の理解度ではないが、Jupyter Notebook などを利用して基本的な分析が可能なレベル
 
 
 
