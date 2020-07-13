@@ -1,16 +1,12 @@
 
 # 職務経歴書
 
--   [略歴](#orgd57a6cb)
--   [概要](#org0f650ef)
--   [技術・スキル](#orgeef85f1)
--   [主な業務経験](#org31c43e7)
+-   [略歴](https://github.com/five-dots/curriculum-vitae#略歴)
+-   [概要](https://github.com/five-dots/curriculum-vitae#概要)
+-   [技術・スキル](https://github.com/five-dots/curriculum-vitae#技術・スキル)
+-   [主な業務経験](https://github.com/five-dots/curriculum-vitae#主な業務経験)
 
 ## 略歴
-
--   **five-dots**: フリーランスのデータサイエンティスト・エンジニア ([GitHub リポジトリ](https://github.com/five-dots?tab=repositories) | [Blog](https://objective-boyd-9b8f29.netlify.app/) | [Qiita](https://qiita.com/five-dots) | [Kaggle](https://www.kaggle.com/shasai))
-
-
 
 -   **1983 年**: 千葉県に生まれる。その後、静岡県に移住し、大学進学まで静岡で育つ。現在は、東京都品川区在住。
 -   **2007 年**: 早稲田大学 政治経済学部 政治学科 卒業。
@@ -24,6 +20,7 @@
     -   投資戦略の研究過程で、プログラミングとデータサイエンスの領域と出会い、その面白さに魅了される。
     -   現在は、データサイエンティスト兼エンジニアとして、モデル開発やデータ基盤の整備、発注システムの開発などを行う。
     -   今後は、金融領域に限らず、実業界に蓄積されたデータ分析を通して、自身の価値を世の中に提供できないかを模索中。
+-   **five-dots**: フリーランス・データサイエンティスト・エンジニア ([GitHub リポジトリ](https://github.com/five-dots?tab=repositories) | [Blog](https://objective-boyd-9b8f29.netlify.app/) | [Qiita](https://qiita.com/five-dots) | [Kaggle](https://www.kaggle.com/shasai))
 
 ## 概要
 
