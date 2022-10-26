@@ -1,145 +1,120 @@
 
 # 職務経歴書
 
--   **five-dots**: フリーランス・データサイエンティスト・エンジニア ([GitHub リポジトリ](https://github.com/five-dots?tab=repositories) | [Blog](https://objective-boyd-9b8f29.netlify.app/) | [Qiita](https://qiita.com/five-dots) | [Kaggle](https://www.kaggle.com/shasai))
 -   [略歴](https://github.com/five-dots/curriculum-vitae#略歴)
 -   [概要](https://github.com/five-dots/curriculum-vitae#概要)
--   [技術](https://github.com/five-dots/curriculum-vitae#技術・スキル)
+-   [技術](https://github.com/five-dots/curriculum-vitae#スキル)
 -   [主な業務経験](https://github.com/five-dots/curriculum-vitae#主な業務経験)
 
 ## 略歴
 
+-   **five-dots**: 
+    -   フリーランス・データサイエンティスト・データエンジニア ([GitHub リポジトリ](https://github.com/five-dots?tab=repositories) | [Blog](https://objective-boyd-9b8f29.netlify.app/) | [Qiita](https://qiita.com/five-dots))
+
 -   **2007 年**: 早稲田大学 政治経済学部 政治学科 卒業。
-    -   研究テーマは、日本の選挙制度の計量分析。
+    -   研究テーマは、日本の選挙制度の計量分析。(SPSS を利用した計量分析)
     -   コンピューター系のサークルに所属し、Linux サーバー構築・ PC 自作などを楽しむ。
 
 -   **2007 年**: シスコシステムズ株式会社に入社。
-    -   「ビジネスを理解するためには営業職を経験するのが良いのではないか」と考え、営業としてキャリアをスタート。以後、約 10 年間、国内の大手通信キャリア向けの営業職として活動。
-    -   数字へのコミットメント、多くの利害関係者と協業、最先端の技術を実ビジネスに展開する困難さなど、たくさんの貴重な経験を会得。
+    -   約 10 年間、国内の大手通信キャリアを担当し、大規模コアネットワークの導入を支援。
+    -   結果へのコミットメント、多くの利害関係者と協業、最先端の技術を実ビジネスに展開する困難さなど、たくさんの貴重な経験を会得。
 
--   **2016 年**: 自身が代表を務める、法人を設立。
-    -   元々の技術への関心を捨てきれず、プログラミングを猛勉強。その中で数理的な手法を駆使するクオンツの世界の面白さに魅了される。
-    -   一念発起し、主に米国金融マーケットへのアルゴリズム投資を事業とした法人を設立。
-    -   現在は、データサイエンティスト兼エンジニアとして、モデル開発やデータ基盤の整備、発注システムの開発などを行う。
-    -   今後は、金融領域に限らず、実業界に蓄積されたデータ分析を通して、自身の機械学習・統計に関する知見を世の中に提供できないかを模索中。
+-   **2016 年**: フリーランスエンジニア
+    -   自身が代表を務める法人を設立。
+    -   米国金融マーケットへのアルゴリズム投資戦略開発を主としたフリーランスエンジニアとして新たなキャリアをスタート (2016 年〜)
+    -   データサイエンティスト兼データエンジニアとして、モデル開発やデータ基盤の整備、発注システムの開発などを行う。
+    -   金融領域以外にも、位置情報を利用した小売業界向け予測アルゴリズムの開発などに従事 (2020年〜)
 
 ## 概要
 
--   [ **フルスタック** ] データの収集・取得から、前処理、特徴量設計、モデル構築、クラウド環境利用、パフォーマンスチューニングと評価、レポーティングやダッシュボード開発までのデータ分析プロジェクトのフローを完結可能です。
+-   [ **フルスタックのデータサイエンス** ] データの収集・取得から、前処理、特徴量設計、モデル構築、クラウド環境利用、パフォーマンスチューニングと評価、レポーティングやダッシュボード開発までのデータ分析プロジェクトのフローを完結可能です。
 
--   [ **多様な分析手法** ] 金融マーケットのデータ分析を主戦場としてきましたので、多変量の線形モデルや時系列モデルを得意としていますが、一般的なテーブルデータへの統計的な解析、機械学習のモデリングやパフォーマンスチューニングにも知見があります。
+-   [ **モダンデータスタックの活用** ] クラウドネイティブなデータ管理ツールを利用し、運用コストを最小限に抑えたデータ分析基盤の構築のご提案が可能です。
 
 -   [ **分析のコード化** ] アドホックなデータ分析などの「アナリスト」的な業務だけでなく、分析タスクをコード化していく「エンジニア」寄りのタスクに強みがあります。
 
--   [ **R 言語のプロフェッショナル** ] 分析用には、R 言語をメインで利用しており、CRAN パッケージを含む複数のパッケージを開発しています。実際のコードからコーディング能力を確かめたい場合は、 [GitHub リポジトリ](https://github.com/five-dots?tab=repositories) をご覧ください。
+-   [ **コミュニケーション力・チームプレイ** ] コーディングやデータ分析業務だけでなく、社内外の多様な部門との協業による案件推進や、プロジェクトマネジメント、顧客へのプレゼンテーションや折衝まで対応可能です。
 
--   [ **コミュニケーション力・チームプレイ** ] コーディングやデータ分析業務だけでなく、営業職としての経験を活かした、社内外の多様な部門との協業による案件推進や、 顧客へのプレゼンテーションや折衝まで対応可能です。
+## スキル
 
--   [ **その他** ] 英語力は、外資系企業 10 年の経験から、文章の読み書き (技術文書含む) は当然として、メールでの海外部門とのやりとり、多拠点での電話会議、対面での会議主催などの経験があります。また、基本的に、全ての技術を自学自習によって習得してきたため、未知の領域の技術への速習能力と自走能力に自信がございます。
+利用頻度が高く、特に得意としているものは、**太字**で記載。
 
-## 技術
+### Language
 
-### プログラミング言語と分析手法
+-   **Python**, **R**, **Shell Script**, Go, C#, Stan
 
--   **R 言語**
-    -   現在、データ分析では主に利用している言語
-    -   主に金融時系列データなどの高頻度データの分析経験 (数億件のデータ)
-    
-    -   R パッケージを多数開発
-        -   [ `{ml4e}` ](https://github.com/five-dots/ml4e): Machine Learning for Everyone (機械学習プロジェクトを簡素化するメタパッケージ)
-        -   [ `{Dict}` ](https://github.com/five-dots/Dict): R6 による Dictionary データ構造を実装した [CRAN](https://cran.r-project.org/web/packages/Dict/index.html) パッケージ
-        -   その他 [リポジトリ](https://github.com/five-dots) を参照
-        -   `{testhat}` を利用したユニットテストや Defensive Programming の技術
-    
-    -   `{tidyverse}` などのモダンなパッケージを使ったデータのインポート・前処理・可視化などの一連の処理に精通
-        -   経験した技術ノウハウ・パッケージの利用方法についての技術記事を自身の [notes リポジトリ](https://github.com/five-dots/notes) で公開
-    
-    -   主要な機械学習モデル・ライブラリを経験
-        -   回帰モデル・時系列モデル・ GBDT など Tree 系モデル・ニューラルネットワークなど
-        -   習得したモデル構築の知見を [ `{ml4e}` ](https://github.com/five-dots/ml4e) パッケージに展開中
-            -   2020 年 5 月現在で 12 パッケージを収録
-            -   `{glment}`, `{kernlab}`, `{kknn}`, `{rpart}`, `{ranger}`, `{extraTrees}`, `{RGF}`, `{xgboost}`, `{lightgbm}`, `{catboost}`, `{keras}`
-    
-    -   Rmarkdown, Jupyter notebook, Emacs org-mode を利用した Reproducible なレポート作成経験
-    -   その他
-        -   Shiny を利用したデータ可視化のためのダッシュボード構築の経験
-        -   R からの REST API を利用したデータ収集の経験
-        -   Web クローラーによるデータ収集の経験
+### DWH/RDBMS
 
+-   **BigQuery**, RedShift, Snowflake
 
+-   PostgreSQL, MySQL, SQL Server, SQLite
 
--   **Python**
-    -   R 言語では、カバーしにくい領域の開発に利用 (ディープラーニング や Web アプリケーション)
-    -   Zappa + AWS + Flask を利用したサーバーレスアプリケーションとして API を開発
-    -   TensorFlow, PyTorch に関しては、若干の経験
-    -   R と同等のレベルで分析に利用できるように猛勉強中
+### Cloud Platform
 
+-   Google Cloud
+    -   **BigQuery**, **Cloud Storage**, **Compute Engine**, **Dataproc**, **Cloud Functions**, Cloud Run, Pub/Sub, Cloud SQL, Container Registry, Cloud Scheduler, VPC, IAM, Secret Manager, Logging, Monitoring, Google Maps Platform
 
+-   AWS
+    -   EC2, S3, RDS, Lambda, Redshift
 
--   **SQL**
-    -   分析用クエリや Web アプリケーションのバックエンドとしてのクエリ作成経験
-    -   RDBMS: PostgreSQL (+Redshift), MySQL, SQL Server, SQLite
-    -   R 言語から `{dplyr}`, `{dbplyr}` を使ったデータベースからのデータ抽出
+### Data Stack
 
+-   **dbt**, dbt Cloud, Dataform, Airbyte
+-   **Spark (PySpark, SparkR)**
+-   **Airflow**, Prefect, Rundeck
 
+### BI/Dashboard/Notebook/Visualization
 
--   **Stan**
-    -   主に金融時系列データの分析に利用
-    -   R や Python の既存パッケージでは表現できないような複雑な階層型のベイズモデルの開発に利用
+-   Tableau, Google Data Studio (Looker Studio), Superset, Metabase, Mode
+-   **Streamlit**, **Shiny**
+-   **Jupyter Lab**, Jupyter Notebook, Hex, Rmarkdown
 
+### Version Control
 
+- GitHub, GitLab, Bitbucket
 
--   **C#**
-    -   主にアルゴトレーディング戦略の開発言語として利用
-    -   その他
-        -   VSTO を利用した Excel アドイン開発
-        -   WPF/XAML を利用したデスクトップアプリケーション開発
-        -   HtmlAgilityPack を利用したクローラー開発
-        -   EntitiyFramework を利用したデータベースアプリケーション開発
+### その他
 
-
-
--   その他 (上記の言語ほどではないが、基本的な理解のあるもの)
-    -   Shell Script, Emacs Lisp
-
-### クラウド基盤
-
--   **GCP**
-    -   R 言語を利用したデータ分析を分散化・高速化するために Compute Engine と Cloud Storage を利用
-    -   Google Could SDK とシェルスクリプトを利用した GCP 上での高負荷データ分析タスクの自動化
-    -   BigQuery の多少の経験
-
-
-
--   **AWS**
-    -   API Gateway + Lambda + RDS でのサーバーレスアプリケーションの構築経験
-    -   その他、EC2, S3, VPS の知見
-
-### 開発環境
-
--   **OS/Editor**
-    -   Linux: 現在、メインの開発環境として Ubuntu を利用
-    -   MacOS: サブとして利用 (基本的に Linux と同等の環境を整備)
-    -   Windows: 現在は積極的に利用していないが、過去に Visual Studio + C# + .NET framework での開発を経験
-    -   全ての言語の開発環境として Emacs を利用
-
-
-
--   **その他**
-    -   Git + Github を使ったソース管理
-    -   Docker/Docker Compose を使った開発環境の構築
-    -   CI, CD
-        -   自身のレポジトリ向けに簡易的に TravisCI を利用した経験あり
-    -   `{lintr}` などの静的解析ツールの利用
-
-### 今後強化していきたい領域・関心のある領域
-
--   C++
--   ディープラーニングによる画像認識, 自然言語処理
--   Spark などの大規模並列処理
--   Cloud AutoML などのクラウド基盤
+-   Docker, Travis CI, QGIS
 
 ## 主な業務経験
+
+### 小売業界向けダッシュボードのバッチ再構築プロジェクト (SQL/R)
+
+【業務内容と技術要素】
+
+-   小売業界向け SaaS プロダクトのデータマート生成バッチ再構築プロジェクト
+-   位置情報を利用した、小売店舗の来店人数や来店顧客の特性分析の推定モデルを改善
+-   既存の BigQuery + gcloud cli (Shell Script) の構成から、dbt を使ったパイプライン構築へ変更
+-   技術要素として、dbt, dbt Cloud, BigQuery, BQML, R など 
+-   データマートのバージョン管理・データテストの実装によりデータ品質とデプロイまでのスピードが大きく向上
+
+### 位置情報を利用したユーザーのプロファイル推定アルゴリズムの開発 (SQL/R/Python)
+
+【業務内容と技術要素】
+
+-   スマートフォンからの位置情報を利用してユーザーの居住地・勤務地・性別・年代・行動趣向性を推定するアルゴリズムを開発
+-   データの収集・前処理・特徴量設計・モデル構築・パフォーマンスチューニング・評価・経営層へのレポーティングまで一気通貫に担当
+-   技術要素としては、BigQuery, BQML, Compute Engine, R, Airflow などを活用
+-   ユーザーデモグラの推定モデルとして GBDT 系モデル (BQML) を採用し、従来モデルから大きく精度を改善
+
+### 分析用データ ETL タスクのサーバーレス化 (Python)
+
+【業務内容と技術要素】
+
+-   分析用データ変換タスクをコスト効率よく実行するため、主に GCP Cloud Functions と Cloud Run を活用したサーバーレス構成で実装
+-   タスクスケジューラーとしては、 Airflow を採用
+-   従来の Compute Engine を利用したデータバッチの運用に比べて、運用コストが大きく低下
+
+### 位置情報を利用した食品メーカー向けダッシュボード構築 (SQL/Python)
+
+【業務内容と技術要素】
+
+-   位置情報を利用し、小売店の来店人数の推定や来店顧客のプロファイリングを行うメーカー向けダッシュボード構築
+-   プロジェクトマネージャー兼、データエンジニアとして参画
+-   既存の BI ツールである QlikView から Tableau への移行を支援
+-   Tableau 向けのデータマートを BigQuery 上に構築する作業を担当
+-   データに対する検証 (テスト) を実装することで、2ヶ月という短期間で品質を確保しながら移行を完了
 
 ### 機械学習プロジェクトのためのメタパッケージ開発 (R)
 
