@@ -9,7 +9,7 @@
 ## 略歴
 
 -   **five-dots**: 
-    -   フリーランス・データサイエンティスト・データエンジニア ([GitHub リポジトリ](https://github.com/five-dots?tab=repositories) | [Blog](https://objective-boyd-9b8f29.netlify.app/) | [Qiita](https://qiita.com/five-dots))
+    -   フリーランス・データエンジニア・アナリティクスエンジニア・データサイエンティスト ([GitHub リポジトリ](https://github.com/five-dots?tab=repositories) | [Blog](https://objective-boyd-9b8f29.netlify.app/) | [Qiita](https://qiita.com/five-dots))
 
 -   **2007 年**: 早稲田大学 政治経済学部 政治学科 卒業。
     -   研究テーマは、日本の選挙制度の計量分析。(SPSS を利用した計量分析)
@@ -41,27 +41,28 @@
 
 ### Language
 
--   **Python**, **R**, **Shell Script**, Go, C#, Stan
+-   **Python**, **R**, **SQL**, **Shell Script**, Go, C#, Stan
 
 ### DWH/RDBMS
 
--   **BigQuery**, RedShift, Snowflake
+-   **BigQuery**, **Snowflake**, RedShift
 
 -   PostgreSQL, MySQL, SQL Server, SQLite
 
 ### Cloud Platform
 
 -   Google Cloud
-    -   **BigQuery**, **Cloud Storage**, **Compute Engine**, **Dataproc**, **Cloud Functions**, Cloud Run, Pub/Sub, Cloud SQL, Container Registry, Cloud Scheduler, VPC, IAM, Secret Manager, Logging, Monitoring, Google Maps Platform
+    -   **BigQuery**, **Cloud Storage**, **Compute Engine**, **Dataproc**, **Cloud Functions**, **Cloud Run**, **Pub/Sub**, **GKE**, Batch, Cloud SQL, Container Registry, Artifact Registry, Cloud Scheduler, VPC, IAM, Secret Manager, Logging, Monitoring, Google Maps Platform
 
 -   AWS
     -   EC2, S3, RDS, Lambda, Redshift
 
 ### Data Stack
 
--   **dbt**, dbt Cloud, Dataform, Airbyte
+-   **dbt**, dbt Cloud, Dataform, Fivetran, Airbyte
 -   **Spark (PySpark, SparkR)**
--   **Airflow**, Prefect, Rundeck
+-   **Airflow**, **Argo Workflows**, Prefect, Rundeck
+-   OpenMetaData
 
 ### BI/Dashboard/Notebook/Visualization
 
@@ -69,13 +70,15 @@
 -   **Streamlit**, **Shiny**
 -   **Jupyter Lab**, Jupyter Notebook, Hex, Rmarkdown
 
-### Version Control
+### Version Control and CI/CD
 
 - GitHub, GitLab, Bitbucket
+- GitHub Actions, Bitbucket Pipelines, Travis CI
 
 ### その他
 
--   Docker, Travis CI, QGIS
+-   Docker, Docker Compose, Dev Container
+-   QGIS
 
 ## 主な業務経験
 
